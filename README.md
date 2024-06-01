@@ -11,6 +11,6 @@ This project includes
 
 ## File Structure
 
-- `option.py` Contains the base `Option` class.
-- `binomialpricing.py` Contains the `BinomialTree` class, which inherits from the `Option` class and implements the binomial tree model.
-- `trinomialpricing.py` Contains the `TrinomialTree` class, which inherits from the `BinomialTree` class and implements the trinomial tree model.
+- `option.ipynb` Contains the base `Option` class.
+- `binomialpricing.ipynb` Contains the `BinomialTree` class, which inherits from the `Option` class and implements the binomial tree model.
+- `trinomialpricing.ipynb` Contains the `TrinomialTree` class, which inherits from the `BinomialTree` class and implements the trinomial tree model.
